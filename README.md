@@ -1,6 +1,6 @@
 
 # Contributing
-[![Build Status](https://dev.azure.com/M1019899/Space%20web%20-%20Game%20-%20Pipeline/_apis/build/status/PradeepChandramouli.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/M1019899/Space%20web%20-%20Game%20-%20Pipeline/_build/latest?definitionId=3&branchName=master)
+https://dev.azure.com/M1019899/Space%20web%20-%20Game%20-%20Pipeline/_apis/build/status/PradeepChandramouli.mslearn-tailspin-spacegame-web?branchName=master
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
